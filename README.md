@@ -14,9 +14,9 @@ pit window — using real race telemetry data.
 
 ## Week 1 — What I've done so far
 - Loaded Monaco 2023 GP data — 1515 laps, 20 drivers, 31 features
-- Visualized lap times for top 5 drivers
+- Visualized lap times for 5 random drivers (Verstappen , Gasly , Alonoso ,Perez , Leclerc)
 - Analyzed tyre degradation for Verstappen
-- Plotted tyre strategy for all top 5 drivers
+- Plotted tyre strategy for all 5  drivers
 
 ## Key Observations
 - Normal lap time at Monaco = 75-80 seconds
@@ -24,4 +24,4 @@ pit window — using real race telemetry data.
 - Medium tyre showed very low degradation at Monaco
 - PER used 4 different compounds — most complex strategy
 
-## Project Structure
+
