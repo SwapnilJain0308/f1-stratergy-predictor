@@ -24,4 +24,8 @@ pit window — using real race telemetry data.
 - Medium tyre showed very low degradation at Monaco
 - PER used 4 different compounds — most complex strategy
 
+## Week 2 Progress (In Progress)
+- Defined prediction target: WillPit (binary classification)
+- 103 laps identified where driver pits in next 3 laps
+- Feature engineering in progress
 
