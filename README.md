@@ -45,4 +45,5 @@ https://f1-stratergy-predictor-k6banp5xjakwqe9fez88cr.streamlit.app/
 
 ## How to Run Locally
 1. Clone the repo
-2. Install dependencies:
+2. Install dependencies: pip install streamlit pandas joblib xgboost plotly scikit-learn
+3. Run: streamlit run f1_app.py
